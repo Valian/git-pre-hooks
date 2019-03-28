@@ -2,6 +2,9 @@
 Automatic pre-commit quality checks example for [my blog post](https://rock-it.pl/automatic-code-quality-checks-with-git-hooks).
 Basically, it's an example how to create pre-commit / pre-push hooks to automatically run tests.
 
+## Other tools
+Since writing this post, I've found a much better tool for running pre-commit hooks, called simply [pre-commit](https://pre-commit.com/). You should check it, as it's much more powerful and also easy to use.
+
 ## Short version
 
 ``` bash
